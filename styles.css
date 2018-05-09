@@ -1,0 +1,23 @@
+/* External Stylesheet for styling the page */
+
+img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+
+article{
+
+    /* Applying border to the article */
+    border: 1px solid black;
+    height: 100px;
+   
+        
+}
+
